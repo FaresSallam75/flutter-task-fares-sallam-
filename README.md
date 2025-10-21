@@ -7,9 +7,9 @@ A new Flutter project.
 # Screenshots 
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/home.png" width="200" alt="Home Page">
-  <img src="assets/bouquet.png" width="200" alt="Bouquet Page">
-  <img src="assets/room.png" width="200" alt="Room Page">
+  <img src="assets/screenshots/home.png" width="200" alt="Home Page">
+  <img src="assets/screenshots/bouquet.png" width="200" alt="Bouquet Page">
+  <img src="assets/screenshots/room.png" width="200" alt="Room Page">
 
 </div>
   
