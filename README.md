@@ -4,9 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
+# Screenshots 
+
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/home.png" width="200" alt="Home Page">
+  <img src="assets/bouquet.png" width="200" alt="Bouquet Page">
+  <img src="assets/room.png" width="200" alt="Room Page">
+
+</div>
+  
+
 
  # 🧰 Tools & Technologies Used
-
 | الفئة | الأدوات / التقنيات | الوصف |
 |-------|--------------------|--------|
 | ⚙️ **Framework & Language** | **Flutter (Dart)** | لبناء واجهات المستخدم والتطبيق بالكامل. |
