@@ -10,7 +10,6 @@ A new Flutter project.
   <img src="assets/screenshots/home.png" width="200" alt="Home Page">
   <img src="assets/screenshots/bouquet.png" width="200" alt="Bouquet Page">
   <img src="assets/screenshots/room.png" width="200" alt="Room Page">
-
 </div>
   
 
